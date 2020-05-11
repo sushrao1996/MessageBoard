@@ -1,2 +1,0 @@
-# MessageBoard
-Created with CodeSandbox
